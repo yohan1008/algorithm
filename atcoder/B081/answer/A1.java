@@ -24,6 +24,8 @@ import java.util.Scanner;
  * 따라서 준어진 숫자를 모두 or연산을 진행하여
  * 도출해 낸 결과값을 이진법으로 변환 후
  * 최종적으로 최소위에서 부터의 0의 갯수를 출력하면 해당 문제를 쉽게 풀 수 있다.
+ *
+ * @author kangyohan
  */
 
 public class A1 {
