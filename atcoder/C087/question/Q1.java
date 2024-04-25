@@ -3,7 +3,7 @@ package atcoder.C087.question;
 import java.util.Scanner;
 
 /**
- * 문제를 푼 횟수 : 3
+ * 문제를 푼 횟수 : 4
  * <p>
  * 500원 a장 100원 b장 50원 c장이 주어진다.
  * 그리고 주어진 돈으로 t원을 만들 수 있는 경우의 수를 구하시오.
