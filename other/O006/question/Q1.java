@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 문제 푼 횟수 : 5
+ * 문제 푼 횟수 : 6
  * <p>
  * 다음은 원주율의 소수 부분의 처음 900자리 숫자 열입니다.
  * <p>

@@ -1,6 +1,12 @@
 package atcoder.B085.question;
 
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+
 /**
+ * 문제 푼 횟수 : 2
+ *
  * X 段重ねの鏡餅
  * (X≥1) とは、
  * X 枚の円形の餅を縦に積み重ねたものであって、どの餅もその真下の餅より直径が小さい（一番下の餅を除く）もののことです。例えば、直径

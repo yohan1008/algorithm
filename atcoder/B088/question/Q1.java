@@ -3,7 +3,7 @@ package atcoder.B088.question;
 import java.util.*;
 
 /**
- * 문제 푼 횟수 : 2
+ * 문제 푼 횟수 : 3
  * <p>
  * N 枚のカードがあります。
  * i 枚目のカードには, Xという数が書かれています。

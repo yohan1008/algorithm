@@ -3,7 +3,7 @@ package atcoder.B083.question;
 import java.util.Scanner;
 
 /**
- * 문제 푼 횟수 : 3
+ * 문제 푼 횟수 : 4
  * <p>
  * 1 以上
  * N 以下の整数のうち、
